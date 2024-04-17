@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    border: 2px dashed deeppink;
+    border-top: none;
+    padding: 10px;
+    padding-top: 5px;
+    text-align: justify;
+}
+h4 {
+    border: 2px solid deeppink;
+    margin: 0;
+    text-align: center;
+    background-color: deeppink;
+    color: white;
+}
+div {
+    width: 218px;
+    font-size: 16px;
+}
+li {
+    padding: 5px;
+}
